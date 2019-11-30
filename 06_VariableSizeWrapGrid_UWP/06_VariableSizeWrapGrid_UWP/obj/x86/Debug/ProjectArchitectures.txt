@@ -1,0 +1,1 @@
+C:\Users\ymcampanario\Desktop\DesarrolloInterfaces\06_VariableSizeWrapGrid_UWP\06_VariableSizeWrapGrid_UWP\06_VariableSizeWrapGrid_UWP.csproj;x86

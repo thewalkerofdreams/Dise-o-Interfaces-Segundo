@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Buscaminas_UI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Buscaminas_UI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="using:Buscaminas_UI.ViewModels"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.DataContext>
+        <vm:ClsMainPageVM></vm:ClsMainPageVM>
+    </Page.DataContext>
+
+    <RelativePanel>
+        <GridView x:Name="grisView01" ItemsSource="{Binding Tablero}" SelectedItem="{Binding CasillaSeleccionada, Mode=TwoWay}">
+            <GridView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Height="53" Width="53">
+                        <Image Source="{Binding ImageAddress}"></Image>
+                    </StackPanel>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+    </RelativePanel>
+</Page>

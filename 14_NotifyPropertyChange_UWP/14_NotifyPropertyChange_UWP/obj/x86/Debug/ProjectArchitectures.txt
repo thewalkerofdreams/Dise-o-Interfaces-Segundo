@@ -1,0 +1,1 @@
+C:\Users\ymcampanario\Desktop\14_NotifyPropertyChange_UWP\14_NotifyPropertyChange_UWP\14_NotifyPropertyChange_UWP.csproj;x86

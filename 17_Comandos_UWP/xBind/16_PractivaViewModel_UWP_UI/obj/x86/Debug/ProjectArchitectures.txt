@@ -1,0 +1,2 @@
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\17_Comandos_UWP\xBind\16_PracticaViewModel_UWP_Entities\16_PracticaViewModel_UWP_Entities.csproj;x86
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\17_Comandos_UWP\xBind\16_PractivaViewModel_UWP_UI\16_PractivaViewModel_UWP_UI.csproj;x86

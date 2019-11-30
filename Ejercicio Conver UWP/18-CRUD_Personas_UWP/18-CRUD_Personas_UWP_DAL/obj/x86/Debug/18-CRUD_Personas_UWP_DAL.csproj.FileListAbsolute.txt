@@ -1,0 +1,159 @@
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ymcampanario\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Joker\Desktop\18_CRUD_Personas_UWP\18_CRUD_Personas_UWP\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_DAL.pri
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.dll
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pdb
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\bin\x86\Debug\18-CRUD_Personas_UWP_Entities.pri
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csprojAssemblyReference.cache
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CoreCompileInputs.cache
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.csproj.CopyComplete
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.dll
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\18-CRUD_Personas_UWP_DAL.pdb
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\priconfig.xml.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\resources.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\pri.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\qualifiers.txt.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\18_CRUD_Personas_UWP\Ultima Version 2.0\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

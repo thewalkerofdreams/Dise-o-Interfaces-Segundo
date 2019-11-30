@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_VariableSizeWrapGrid_UWP", "06_VariableSizeWrapGrid_UWP\06_VariableSizeWrapGrid_UWP.csproj", "{2638F593-0F56-4ABE-B8BC-164900F85216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM.Build.0 = Debug|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM64.Build.0 = Debug|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x64.ActiveCfg = Debug|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x64.Build.0 = Debug|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x64.Deploy.0 = Debug|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x86.ActiveCfg = Debug|x86
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x86.Build.0 = Debug|x86
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Debug|x86.Deploy.0 = Debug|x86
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM.ActiveCfg = Release|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM.Build.0 = Release|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM.Deploy.0 = Release|ARM
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM64.ActiveCfg = Release|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM64.Build.0 = Release|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|ARM64.Deploy.0 = Release|ARM64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x64.ActiveCfg = Release|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x64.Build.0 = Release|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x64.Deploy.0 = Release|x64
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x86.ActiveCfg = Release|x86
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x86.Build.0 = Release|x86
+		{2638F593-0F56-4ABE-B8BC-164900F85216}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5581771E-3497-4EF5-8840-F14A1C289877}
+	EndGlobalSection
+EndGlobal

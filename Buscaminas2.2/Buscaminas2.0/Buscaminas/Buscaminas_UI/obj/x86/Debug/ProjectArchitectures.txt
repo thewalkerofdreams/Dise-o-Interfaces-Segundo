@@ -1,0 +1,2 @@
+C:\Users\ymcampanario\Desktop\Buscaminas2.0\Buscaminas\Buscaminas_Entidades\Buscaminas_Entidades.csproj;x86
+C:\Users\ymcampanario\Desktop\Buscaminas2.0\Buscaminas\Buscaminas_UI\Buscaminas_UI.csproj;x86

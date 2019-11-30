@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.3\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\obj\x86\Release\ilc\intermediate\MDIL\18-CRUD_Personas_UWP_UI.mdilexe"
+"/i:C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\obj\x86\Release\ilc\intermediate\Native\18-CRUD_Personas_UWP_UI.exe"
+"/pdbAltPath:C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\bin\x86\Release\ilc"
+"/res:C:\Users\Joker\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\Joker\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.3\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

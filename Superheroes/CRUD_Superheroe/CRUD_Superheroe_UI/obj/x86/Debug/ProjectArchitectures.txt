@@ -1,0 +1,5 @@
+C:\Users\Joker\Desktop\Superheroes\CRUD_Superheroe\CRUD_Superheroe_BL\CRUD_Superheroe_BL.csproj;x86
+C:\Users\Joker\Desktop\Superheroes\CRUD_Superheroe\CRUD_Superheroe_DAL\CRUD_Superheroe_DAL.csproj;x86
+C:\Users\Joker\Desktop\Superheroes\CRUD_Superheroe\CRUD_Superheroe_Entities\CRUD_Superheroe_Entities.csproj;x86
+C:\Users\Joker\Desktop\Superheroes\CRUD_Superheroe\CRUD_Superheroe_Entities\CRUD_Superheroe_Entities.csproj;x86
+C:\Users\Joker\Desktop\Superheroes\CRUD_Superheroe\CRUD_Superheroe_UI\CRUD_Superheroe_UI.csproj;x86

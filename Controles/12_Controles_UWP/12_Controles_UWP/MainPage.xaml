@@ -1,0 +1,82 @@
+﻿<Page
+    x:Class="_12_Controles_UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_12_Controles_UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Name="Grid01">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="textBlock01" FontSize="40" Grid.Column="0" Grid.Row="0">Choseeee</TextBlock>
+        <RelativePanel x:Name="Relative01" Grid.Column="1" Grid.Row="0">
+            <Button x:Name="btnCancel" RelativePanel.AlignTopWithPanel="True">Cancel</Button>
+            <Button x:Name="btnDefault" RelativePanel.Below="btnCancel">Default</Button>
+        </RelativePanel>
+        <StackPanel x:Name="StackPanel01" Orientation="Vertical" Grid.Column="2" Grid.Row="0">
+            <RadioButton x:Name="RadioBtn01" GroupName="Group01" Foreground="Green" Content="✔Yes"></RadioButton>
+            <RadioButton x:Name="RadioBtn02" GroupName="Group01" Foreground="Red" Content="No"></RadioButton>
+            <RadioButton x:Name="RadioBtn03" GroupName="Group01" Foreground="Gray" Content="Maybe"></RadioButton>
+            <Button x:Name="btnGo" Content="GO"></Button>
+        </StackPanel>
+        <Button x:Name="btnHello" Content="Hello" ToolTipService.ToolTip="Cortana ayudame." Grid.Column="3" Grid.Row="0" VerticalAlignment="Top" Click="btnHello_Click"></Button>
+        <Pivot x:Name="Pivot01" Grid.Column="0" Grid.Row="1" VerticalAlignment="Top" HorizontalContentAlignment="Left">
+            <PivotItem Header="Economía">
+                <StackPanel Orientation="Vertical">
+                    <AppBarButton Content="Eco01" Icon="Admin"></AppBarButton>
+                    <AppBarButton Content="Eco02" Icon="People"></AppBarButton>
+                    <AppBarButton Content="Eco03" Icon="LeaveChat"></AppBarButton>
+                </StackPanel>
+            </PivotItem>
+            <PivotItem Header="NoEco">
+            </PivotItem>
+            <PivotItem Header="ValeSiEco">
+            </PivotItem>
+            <PivotItem Header="ValeSiEco02">
+            </PivotItem>
+        </Pivot>
+        <AutoSuggestBox x:Name="AutoSuggest01" Grid.Column="2" Grid.Row="1" VerticalAlignment="Center"></AutoSuggestBox>
+        <PasswordBox  Grid.Column="3" Grid.Row="1" VerticalAlignment="Center"></PasswordBox>
+        <ListBox Grid.Row="2" Grid.Column="0">
+            <TextBlock Text="Arial" FontFamily="Arial"/>
+            <TextBlock Text="Courier New" FontFamily="Courier New"/>
+            <TextBlock Text="Times New Roman" FontFamily="Times New Roman"/>
+            <TextBlock Text="Arial" FontFamily="Arial"/>
+            <TextBlock Text="Courier New" FontFamily="Courier New"/>
+            <TextBlock Text="Times New Roman" FontFamily="Times New Roman"/>
+            <TextBlock Text="Arial" FontFamily="Arial"/>
+            <TextBlock Text="Courier New" FontFamily="Courier New"/>
+            <TextBlock Text="Times New Roman" FontFamily="Times New Roman"/>
+        </ListBox>
+        <ComboBox Header="Frutita" PlaceholderText="Elige tu frutita" Width="200" Grid.Column="1" Grid.Row="2">
+            <x:String>Manzana</x:String>
+            <x:String>Pera</x:String>
+            <x:String>Pero</x:String>
+            <x:String>Banana</x:String>
+        </ComboBox>
+        <Slider x:Name="volumeSlider" Header="Volumen" Width="Auto"
+         Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="2"/>
+        <ProgressBar Value="{Binding ElementName=volumeSlider, Path=Value, Mode=TwoWay}" Minimum="0" Maximum="100" Grid.Column="3" Grid.Row="2" Height="20"></ProgressBar>
+        <CalendarView Grid.Column="0" Grid.Row="3" Width="Auto"></CalendarView>
+        <CalendarDatePicker Grid.Column="1" Grid.Row="3"></CalendarDatePicker>
+        <DatePicker Grid.Column="2" Grid.Row="3" ></DatePicker>
+        <StackPanel x:Name="StackPanel03" Orientation="Vertical" Grid.Column="3" Grid.Row="3">
+            <Button Content="Make Reservation" Margin="20"></Button>
+            <Button Content="Validate DatePick" Margin="20"></Button>
+        </StackPanel>
+    </Grid>
+    
+</Page>

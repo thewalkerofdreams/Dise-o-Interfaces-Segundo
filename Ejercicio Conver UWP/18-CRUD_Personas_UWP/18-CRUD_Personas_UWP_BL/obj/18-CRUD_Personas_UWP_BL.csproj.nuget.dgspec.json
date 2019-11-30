@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_BL\\18-CRUD_Personas_UWP_BL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_BL\\18-CRUD_Personas_UWP_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_BL\\18-CRUD_Personas_UWP_BL.csproj",
+        "projectName": "18-CRUD_Personas_UWP_BL",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_BL\\18-CRUD_Personas_UWP_BL.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\18-CRUD_Personas_UWP_DAL.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\18-CRUD_Personas_UWP_DAL.csproj"
+              },
+              "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\18-CRUD_Personas_UWP_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\18-CRUD_Personas_UWP_DAL.csproj",
+        "projectName": "18-CRUD_Personas_UWP_DAL",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\18-CRUD_Personas_UWP_DAL.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj",
+        "projectName": "18-CRUD_Personas_UWP_Entities",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\18-CRUD_Personas_UWP_Entities.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\18-CRUD_Personas_UWP\\18-CRUD_Personas_UWP_Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

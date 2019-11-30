@@ -1,0 +1,1 @@
+C:\Users\ymcampanario\Desktop\08_LayoutGridForm_UWP\08_LayoutGridForm_UWP\08_LayoutGridForm_UWP.csproj;x86

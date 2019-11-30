@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="_19_Resources_UWP_UI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_19_Resources_UWP_UI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <LinearGradientBrush x:Key="buttonBackground">
+            <GradientStop Offset="0" Color="Green"/>
+            <GradientStop Offset="1" Color="Yellow"/>
+        </LinearGradientBrush>
+    </Page.Resources>
+
+
+    <StackPanel x:Name="StackPanel01" Orientation="Vertical">
+        <Button x:Name="btn01" Content="Boton 1" Background="{StaticResource buttonBackground}" Margin="10"></Button>
+        <Button x:Name="btn02" Content="Boton 2" Background="{StaticResource buttonBackground02}" Margin="10"></Button>
+        <Button x:Name="btn03" Content="Boton 3" Background="{StaticResource btnBackgroundDictionary}" Margin="10"></Button>
+        <Button x:Name="btn04" Content="Boton 4" Style="{StaticResource ModBotones}" Margin="10"></Button>
+    </StackPanel>
+</Page>

@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+
+        
+        <form id="form01" method="post">
+            <p>@ViewBag.texto</p>
+            <input type="submit" />
+            <!--<button id="btnADO" name="Connection" type="submit">Connection</button>-->
+        </form>
+        @Html.ActionLink("Ir a la lista de personas", "ListaPersonas", "Home");
+    </div>
+</body>
+</html>

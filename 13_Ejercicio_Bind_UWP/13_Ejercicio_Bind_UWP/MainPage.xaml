@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="_13_Ejercicio_Bind_UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_13_Ejercicio_Bind_UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <RelativePanel>
+        <Slider x:Name="volumeSlider" Header="Volumen" Width="800" RelativePanel.AlignTopWithPanel="True"/>
+        <TextBlock x:Name="textProof01" RelativePanel.Below="volumeSlider" FontSize="{Binding ElementName=textBox01, Path=Text, Mode=OneWay}">Simple Text</TextBlock>
+        <TextBox x:Name="textBox01" RelativePanel.Below="textProof01" Text="{Binding ElementName=volumeSlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+    </RelativePanel>
+</Page>

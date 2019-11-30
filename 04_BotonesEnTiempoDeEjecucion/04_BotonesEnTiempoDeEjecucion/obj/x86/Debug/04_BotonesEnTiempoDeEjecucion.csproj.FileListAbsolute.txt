@@ -1,0 +1,134 @@
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csprojAssemblyReference.cache
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.i.cs
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.cs
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.i.cs
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.cs
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xaml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xaml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xbf
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xbf
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\App.xbf
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\MainPage.xbf
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.xr.xml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\resources.pri
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\AppxManifest.xml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\04_BotonesEnTiempoDeEjecucion.exe
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\AppxManifest.xml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.build.appxrecipe
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\System.Runtime.dll
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csproj.CopyComplete
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ResourceHandlingTask.state
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ProjectArchitectures.txt
+D:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\App.xbf
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\MainPage.xbf
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.xr.xml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\resources.pri
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\AppxManifest.xml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\04_BotonesEnTiempoDeEjecucion.exe
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.build.appxrecipe
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\System.Runtime.dll
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.i.cs
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.cs
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.cs
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xaml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xaml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xbf
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xbf
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csproj.CopyComplete
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json
+C:\Users\Joker\Desktop\Repeticion\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csprojAssemblyReference.cache
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\App.xbf
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\MainPage.xbf
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.xr.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\resources.pri
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\AppxManifest.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\04_BotonesEnTiempoDeEjecucion.exe
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Core\AppxManifest.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\04_BotonesEnTiempoDeEjecucion.build.appxrecipe
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\System.Runtime.dll
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csprojAssemblyReference.cache
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.i.cs
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.g.cs
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.i.cs
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.g.cs
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xaml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xaml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\App.xbf
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MainPage.xbf
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\XamlSaveStateFile.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csproj.CoreCompileInputs.cache
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.csproj.CopyComplete
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.exe
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\04_BotonesEnTiempoDeEjecucion.pdb
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ResourceHandlingTask.state
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\priconfig.xml.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\resources.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\pri.resfiles.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\qualifiers.txt.intermediate
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\ProjectArchitectures.txt
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+G:\Primer_trimestre\Desarrollo de Interfaces\EjerciciosASalvo\04_BotonesEnTiempoDeEjecucion\04_BotonesEnTiempoDeEjecucion\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885238160000000.json

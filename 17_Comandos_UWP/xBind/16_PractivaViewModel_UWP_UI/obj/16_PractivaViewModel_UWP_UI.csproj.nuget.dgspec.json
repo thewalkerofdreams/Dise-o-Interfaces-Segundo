@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PractivaViewModel_UWP_UI\\16_PractivaViewModel_UWP_UI.csproj": {}
+  },
+  "projects": {
+    "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\16_PracticaViewModel_UWP_Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\16_PracticaViewModel_UWP_Entities.csproj",
+        "projectName": "16_PracticaViewModel_UWP_Entities",
+        "projectPath": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\16_PracticaViewModel_UWP_Entities.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PractivaViewModel_UWP_UI\\16_PractivaViewModel_UWP_UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PractivaViewModel_UWP_UI\\16_PractivaViewModel_UWP_UI.csproj",
+        "projectName": "16_PractivaViewModel_UWP_UI",
+        "projectPath": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PractivaViewModel_UWP_UI\\16_PractivaViewModel_UWP_UI.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PractivaViewModel_UWP_UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\16_PracticaViewModel_UWP_Entities.csproj": {
+                "projectPath": "D:\\Primer_trimestre\\Desarrollo de Interfaces\\EjerciciosASalvo\\17_Comandos_UWP\\xBind\\16_PracticaViewModel_UWP_Entities\\16_PracticaViewModel_UWP_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

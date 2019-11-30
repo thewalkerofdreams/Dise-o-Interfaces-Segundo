@@ -1,0 +1,105 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="_18_CRUD_Personas_UWP_UI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_18_CRUD_Personas_UWP_UI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="using:_18_CRUD_Personas_UWP_UI.ViewModels"
+    xmlns:con="using:_18_CRUD_Personas_UWP_UI.Models"
+    xmlns:Windows10version1809="http://schemas.microsoft.com/winfx/2006/xaml/presentation?IsApiContractPresent(Windows.Foundation.UniversalApiContract, 7)"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.DataContext>
+        <vm:ClsMainPageVM></vm:ClsMainPageVM>
+    </Page.DataContext>
+
+    <Page.Resources>
+        <con:DateTimeToDateTimeOffsetConverter x:Key="DateTimeToDateTimeOffsetConverter"></con:DateTimeToDateTimeOffsetConverter>
+        <con:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter"></con:ByteArrayToImageConverter>
+    </Page.Resources>
+
+    <RelativePanel>
+        <StackPanel x:ConnectionId='2' x:Name="StackPanel01" Orientation="Horizontal" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+            <Windows10version1809:MenuBar x:ConnectionId='30' Name="Archivo01">
+                <MenuBarItem>
+                    <MenuFlyoutItem x:ConnectionId='31' x:Name="btnAddPersona" Text="New Person" Command="{Binding AddPersona}"/>
+                    <MenuFlyoutItem Text="Save Person" Command="{Binding GuardarPersona}"/>
+                    <MenuFlyoutItem Text="Delete Person" Command="{Binding EliminarPersona}"/>
+                    <MenuFlyoutItem Text="Refresh Person List" Command="{Binding RefrescarLista}"/>
+                </MenuBarItem>
+            </Windows10version1809:MenuBar>
+        </StackPanel>
+        <StackPanel x:ConnectionId='3' x:Name="StackPanel02" Orientation="Horizontal" RelativePanel.Below="StackPanel01" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+            <AppBarButton x:ConnectionId='24' x:Name="btnAddPerson" Icon="AddFriend" Command="{Binding AddPersona}"></AppBarButton>
+            <AppBarButton x:ConnectionId='25' x:Name="btnSavePerson" Icon="Save" Command="{Binding GuardarPersona}"></AppBarButton>
+            <AppBarButton x:ConnectionId='26' x:Name="btnDeletePerson" Icon="Delete" Command="{Binding EliminarPersona}"></AppBarButton>
+            <AppBarButton x:ConnectionId='27' x:Name="btnRefreshList" Icon="Refresh" Command="{Binding RefrescarLista}"></AppBarButton>
+            <TextBox x:ConnectionId='28' x:Name="txtSearch" VerticalAlignment="Center" PlaceholderText="Buscar persona" Width="250" Margin="5, 0, 0, 0" Text="{Binding TextoBusqueda, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <AppBarButton x:ConnectionId='29' x:Name="btnSearch" Icon="Find" Command="{Binding FiltrarNombres}"></AppBarButton>
+        </StackPanel>
+        <ListView x:ConnectionId='4' x:Name="ListView01" ItemsSource="{Binding ListadoPersonas}" SelectedItem="{Binding PersonaSeleccionada, Mode=TwoWay}" BorderBrush="Black" BorderThickness="1"
+                                                        RelativePanel.Below="StackPanel02" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignBottomWithPanel="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=nombre}"></TextBlock>
+                        <TextBlock Text="{Binding Path=apellidos}" Margin="10,0,0,0"></TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Resources>
+                <MenuFlyout x:ConnectionId='23' x:Name="Actions_Persona_Flyout">
+                    <MenuFlyoutItem Text="Delete" Icon="Delete" Command="{Binding EliminarPersona}"/>
+                </MenuFlyout>
+            </ListView.Resources>
+        </ListView>
+        <!--<AppBarButton x:Name="PersonPicture01" 
+            Icon="{Binding PersonaSeleccionada.fotoPersona}" RelativePanel.Below="StackPanel02" RelativePanel.RightOf="ListView01" RelativePanel.AlignRightWithPanel="True"></AppBarButton>-->
+        <Image x:ConnectionId='5' x:Name="PersonPicture01"                                                   
+            Source="{Binding PersonaSeleccionada.fotoPersona, Mode=TwoWay, Converter={StaticResource ByteArrayToImageConverter}}" Height="150" Width="150" RelativePanel.Below="StackPanel02" RelativePanel.RightOf="ListView01" RelativePanel.AlignRightWithPanel="True"></Image>
+
+        <Grid x:ConnectionId='6' x:Name="grid01" Background="Bisque" RelativePanel.Below="PersonPicture01" RelativePanel.RightOf="ListView01" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignBottomWithPanel="True">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock x:ConnectionId='7' x:Name="txtBlockNombre" Grid.Column="0" Grid.Row="0" Margin="10">First Name:</TextBlock>
+            <TextBlock x:ConnectionId='8' x:Name="txtErrorNombre" Grid.Column="2" Grid.Row="0" Margin="10" Text="{Binding TextErrorNombre}"></TextBlock>
+            <TextBlock x:ConnectionId='9' x:Name="txtBlockApellidos" Grid.Column="0" Grid.Row="1" Margin="10">Last Name:</TextBlock>
+            <TextBlock x:ConnectionId='10' x:Name="txtErrorApellidos" Grid.Column="2" Grid.Row="1" Margin="10" Text="{Binding TextErrorApellidos}"></TextBlock>
+            <TextBlock x:ConnectionId='11' x:Name="txtBlockFechaNacimiento" Grid.Column="0" Grid.Row="2" Margin="10">Birthday:</TextBlock>
+            <TextBlock x:ConnectionId='12' x:Name="txtErrorFechaNacimiento" Grid.Column="2" Grid.Row="2" Margin="10" Text="{Binding TextErrorFechaNacimiento}"></TextBlock>
+            <TextBlock x:ConnectionId='13' x:Name="txtBlockTelefono" Grid.Column="0" Grid.Row="3" Margin="10">Telephone:</TextBlock>
+            <TextBlock x:ConnectionId='14' x:Name="txtErrorTelefono" Grid.Column="2" Grid.Row="3" Margin="10" Text="{Binding TextErrorTelefono}"></TextBlock>
+            <TextBlock x:ConnectionId='15' x:Name="txtBlockDepartamento" Grid.Column="0" Grid.Row="4" Margin="10">Departament:</TextBlock>
+
+            <TextBlock x:ConnectionId='16' x:Name="txtCreacionPersona" Grid.Column="1" Grid.Row="5" Margin="10" Text="{Binding MensajeCreacionPersona}"></TextBlock><!--Mensaje creación-->
+            
+            <TextBox x:ConnectionId='17' MaxLength="30" x:Name="txtBoxNombre" Grid.Column="1" Grid.Row="0" Background="White" Margin="10" Text="{Binding PersonaSeleccionada.nombre, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <TextBox x:ConnectionId='18' x:Name="txtBoxApellidos" Grid.Column="1" Grid.Row="1" Background="White" Margin="10" Text="{Binding PersonaSeleccionada.apellidos, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <DatePicker x:ConnectionId='19' x:Name="txtBoxFechaNacimiento" Grid.Column="1" Grid.Row="2" Background="White" Margin="10" Date="{Binding PersonaSeleccionada.fechaNacimiento, Mode=TwoWay, Converter={StaticResource DateTimeToDateTimeOffsetConverter}}" ></DatePicker>
+            <TextBox x:ConnectionId='20' x:Name="txtBoxTelefono" Grid.Column="1" Grid.Row="3" Background="White" Margin="10" Text="{Binding PersonaSeleccionada.telefono, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <ComboBox Background="White" ItemsSource="{Binding ListadoDepartamentos}" SelectedValue="{Binding PersonaSeleccionada.idDepartamento, Mode=TwoWay}" SelectedValuePath="Id" PlaceholderText="Choose a departament" Width="200" Grid.Row="4" Grid.Column="1" Margin="10">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=Nombre}"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </Grid>
+    </RelativePanel>
+</Page>
+

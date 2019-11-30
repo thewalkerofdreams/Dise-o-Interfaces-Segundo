@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="_09_RelativePanel_UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_09_RelativePanel_UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <RelativePanel>
+        <Button x:ConnectionId='2' x:Name="IconTick" FontFamily= "Segoe MDL2 Assets" Content="&#xE73E;" Margin="20"                       ></Button>
+        <Button x:ConnectionId='3' x:Name="IconDelete" FontFamily= "Segoe MDL2 Assets" Content="&#xE74D;" Margin="20" RelativePanel.RightOf="IconTick"                         ></Button>
+        <Button x:ConnectionId='4' x:Name="IconDownload" FontFamily= "Segoe MDL2 Assets" Content="&#xE896;" Margin="20" RelativePanel.RightOf="IconDelete"></Button>
+        <Button x:ConnectionId='5' x:Name="IconSearch" FontFamily= "Segoe MDL2 Assets" Content="&#xE721;" Margin="20" RelativePanel.RightOf="IconDownload"                         ></Button>
+
+        <TextBox x:ConnectionId='6' x:Name="TextBoxSearch" RelativePanel.RightOf="IconSearch" Margin="0, 20, 20, 20" ></TextBox>
+
+        <ListBox x:ConnectionId='7' x:Name="ListBox01" RelativePanel.Below="IconTick" RelativePanel.Above="IconLeftArrow" MaxWidth="230"                                              ></ListBox>
+        <Button x:ConnectionId='8' x:Name="btnAdd" RelativePanel.RightOf="IconDownload" RelativePanel.Above="IconRightArrow" Margin="20"                     >
+            <StackPanel x:ConnectionId='14' x:Name="StackPanel01">
+                <SymbolIcon Symbol="Add"></SymbolIcon>
+                <TextBlock>Añadir</TextBlock>
+            </StackPanel>
+        </Button>
+        <Line x:ConnectionId='9' x:Name="Line01" Stroke="Black" Y2="400" StrokeThickness="2" RelativePanel.RightOf="btnAdd" RelativePanel.Below="IconSearch"/>
+        
+        <TextBlock x:ConnectionId='10' x:Name="AddText01"  RelativePanel.RightOf="Line01" RelativePanel.Below="IconSearch" Margin="10">Texto:</TextBlock>
+        <TextBox x:ConnectionId='11' x:Name="AddText02"  RelativePanel.RightOf="AddText01" RelativePanel.Below="IconSearch" Margin="10"></TextBox>
+
+        <Button x:ConnectionId='12' x:Name="IconLeftArrow" FontFamily= "Segoe MDL2 Assets" Content="&#xE72B;" Margin="20"  RelativePanel.AlignBottomWithPanel="True" RelativePanel.RightOf="IconTick"></Button>
+        <Button x:ConnectionId='13' x:Name="IconRightArrow" FontFamily= "Segoe MDL2 Assets" Content="&#xE72A;" Margin="20" RelativePanel.AlignBottomWithPanel="True" RelativePanel.RightOf="IconLeftArrow"></Button>
+    </RelativePanel>
+</Page>
+

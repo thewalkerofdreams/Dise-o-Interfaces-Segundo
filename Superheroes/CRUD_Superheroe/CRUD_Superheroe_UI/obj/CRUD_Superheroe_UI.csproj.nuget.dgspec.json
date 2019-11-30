@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_UI\\CRUD_Superheroe_UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\CRUD_Superheroe_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\CRUD_Superheroe_BL.csproj",
+        "projectName": "CRUD_Superheroe_BL",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\CRUD_Superheroe_BL.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\CRUD_Superheroe_DAL.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\CRUD_Superheroe_DAL.csproj"
+              },
+              "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\CRUD_Superheroe_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\CRUD_Superheroe_DAL.csproj",
+        "projectName": "CRUD_Superheroe_DAL",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\CRUD_Superheroe_DAL.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj",
+        "projectName": "CRUD_Superheroe_Entities",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_UI\\CRUD_Superheroe_UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_UI\\CRUD_Superheroe_UI.csproj",
+        "projectName": "CRUD_Superheroe_UI",
+        "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_UI\\CRUD_Superheroe_UI.csproj",
+        "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\CRUD_Superheroe_BL.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_BL\\CRUD_Superheroe_BL.csproj"
+              },
+              "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj": {
+                "projectPath": "C:\\Users\\Joker\\Desktop\\Superheroes\\CRUD_Superheroe\\CRUD_Superheroe_Entities\\CRUD_Superheroe_Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

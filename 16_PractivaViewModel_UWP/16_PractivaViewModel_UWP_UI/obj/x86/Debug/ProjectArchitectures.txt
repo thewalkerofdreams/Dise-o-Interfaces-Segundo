@@ -1,0 +1,2 @@
+C:\Users\ymcampanario\Desktop\16_PractivaViewModel_UWP\16_PracticaViewModel_UWP_Entities\16_PracticaViewModel_UWP_Entities.csproj;x86
+C:\Users\ymcampanario\Desktop\16_PractivaViewModel_UWP\16_PractivaViewModel_UWP_UI\16_PractivaViewModel_UWP_UI.csproj;x86

@@ -1,0 +1,5 @@
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_BL\18-CRUD_Personas_UWP_BL.csproj;x86
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_DAL\18-CRUD_Personas_UWP_DAL.csproj;x86
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_Entities\18-CRUD_Personas_UWP_Entities.csproj;x86
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_Entities\18-CRUD_Personas_UWP_Entities.csproj;x86
+C:\Users\ymcampanario\Desktop\18-CRUD_Personas_UWP\18-CRUD_Personas_UWP_UI\18-CRUD_Personas_UWP_UI.csproj;x86
